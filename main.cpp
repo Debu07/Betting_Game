@@ -4,6 +4,7 @@
 //if he wins he take 3*betting amount
 //if he losses he losses only bet amount
 //player has 100$ initially
+// code without using dynamic memory allocation
 
 #include <stdio.h>
 #include <stdlib.h>
